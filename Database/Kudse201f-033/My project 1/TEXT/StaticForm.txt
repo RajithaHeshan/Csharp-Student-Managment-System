@@ -1,0 +1,46 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Drawing;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace My_project_1
+{
+    public partial class StaticForm : UserControl
+    {
+        public StaticForm()
+        {
+            InitializeComponent();
+        }
+      //  Color panTotalcolor;
+      //  Color panMalecolor;
+       // Color panFemalecolor;
+
+        private void StaticForm_Load(object sender, EventArgs e)
+        {
+
+            Student_Class student = new Student_Class();
+            double totalStudents = Convert.ToDouble(student.totalstudent());
+            double totalmalestudent = Convert.ToDouble(student.totalmalestudent());
+            double totalFemalestudent = Convert.ToDouble(student.totalFemalestudent());
+
+            //count the %
+            double malePercentage = totalmalestudent * 100 / totalStudents;
+            double femalePercentage = totalFemalestudent * 100 / totalStudents;
+
+            labeltotalstudent.Text =  totalStudents.ToString();
+            labelMale.Text =  malePercentage.ToString("0.00") + "%";
+            labelFemale.Text =  femalePercentage.ToString("0.00") + "%";
+
+            // panTotalcolor = paneltotalstudent.BackColor;     "Female :" +
+            //  panMalecolor = panelmale.BackColor;
+            //  panFemalecolor = panelFemale.BackColor;
+
+        }
+
+
+

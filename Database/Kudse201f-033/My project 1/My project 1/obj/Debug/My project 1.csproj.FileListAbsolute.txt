@@ -1,0 +1,31 @@
+c:\users\d\documents\visual studio 2015\Projects\My project 1\My project 1\bin\Debug\My project 1.exe.config
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\bin\Debug\My project 1.exe
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\bin\Debug\My project 1.pdb
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\bin\Debug\MySql.Data.dll
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My project 1.csprojResolveAssemblyReference.cache
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.Properties.Resources.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My project 1.csproj.GenerateResource.Cache
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My project 1.exe
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My project 1.pdb
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.Login_form.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.MainForm.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.Student.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.Add_New_Student.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\bin\Debug\aa-DJ\My project 1.resources.dll
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.MainForm.aa-DJ.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\aa-DJ\My project 1.resources.dll
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.StudentList_Form.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.Update_delet_student_Form.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.StaticForm.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.ManageStudentsForm.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.PrinttStudentForm.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.CourseForm.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.Add_CourseForm.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.EditCourseForm.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.ManageCourseForm.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.Add_Result.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.Result.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.Remove_Result.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.ResultMange.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.Avg.resources
+C:\Users\D\Documents\Visual Studio 2015\Projects\My project 1\My project 1\obj\Debug\My_project_1.Remove_Course.resources

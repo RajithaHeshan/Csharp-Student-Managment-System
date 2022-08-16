@@ -1,0 +1,59 @@
+===Database student_db
+
+== Table structure for table add_student
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|int(11)|No|
+|First_Name|varchar(50)|No|
+|Last_Name|varchar(50)|No|
+|Birth_date|date|No|
+|Gender|varchar(10)|No|
+|Phone|varchar(20)|No|
+|Address|text|No|
+|Picture|longblob|No|
+== Dumping data for table add_student
+
+|1|dilisha|Priyadrshana|1998-12-03|Male|4344545454|dasdasdasjhskd|
+|3|kavin|kevin|1999-05-09|Male|312312323|dasdsadadad|
+|4|Elena|Zalwator|1998-06-16|Female|132312312313|sdsczxcxzczc|
+|5|janith|Kalugamuwa|1998-11-18|Male|23123213|wdasdsdasda|
+== Table structure for table course
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|int(11)|No|
+|label|varchar(100)|No|
+|hours_number|int(11)|No|
+|description|text|No|
+== Dumping data for table course
+
+|3|JAVA|8|Java Progaming
+|4|C#|12|C# Progaming one
+|8|VB.net|8|VB Progaming
+== Table structure for table result
+
+|------
+|Column|Type|Null|Default
+|------
+|StudentId|int(11)|No|
+|courseId|int(11)|No|
+|Result|double|No|
+|description|text|No|
+== Dumping data for table result
+
+|4|4|56|normal
+== Table structure for table user
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|int(12)|No|
+|Username|varchar(100)|No|
+|Password|varchar(100)|No|
+== Dumping data for table user
+
+|1|admin|admin
+|2|dilisha|1234
